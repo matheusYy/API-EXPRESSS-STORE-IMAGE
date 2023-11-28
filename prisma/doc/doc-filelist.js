@@ -1,0 +1,1 @@
+var tree={"dirs":{"supabase":{"dirs":{"functions":{"dirs":{".vscode":{"files":["extensions.json","settings.json"]}}}}}}};
